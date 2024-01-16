@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotasDemo</string>
+    <string name="titleAgregarNota">Agregar Nota.</string>
+    <string name="hintTxtTitleNote">Ingresa el titulo</string>
+    <string name="hintetContent">Ingresa descripción</string>
+    <string name="titleNotas">Notas.</string>
+    <string name="titleActualizarNota">Editar Nota</string>
+</resources>
